@@ -1,3 +1,3 @@
 # promsci
 
-Version numbers of this app has been specified following SemVer (see https://semver.org/)
+Version numbers of this app have been specified following SemVer (see https://semver.org/)
